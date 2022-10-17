@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hasindu200/New-Portfolio.git/static/css/main.06452911.css",
+    "main.js": "/hasindu200/New-Portfolio.git/static/js/main.f3c1b7e4.js",
+    "static/media/1.jpg": "/hasindu200/New-Portfolio.git/static/media/1.c5b0798d05092859392a.jpg",
+    "static/media/4.jpg": "/hasindu200/New-Portfolio.git/static/media/4.9ad5f9d7bdf600c3d147.jpg",
+    "static/media/2.png": "/hasindu200/New-Portfolio.git/static/media/2.93c5a48eba2b61fdc953.png",
+    "static/media/cv.pdf": "/hasindu200/New-Portfolio.git/static/media/cv.1cc5b57b55c366d556f6.pdf",
+    "index.html": "/hasindu200/New-Portfolio.git/index.html",
+    "main.06452911.css.map": "/hasindu200/New-Portfolio.git/static/css/main.06452911.css.map",
+    "main.f3c1b7e4.js.map": "/hasindu200/New-Portfolio.git/static/js/main.f3c1b7e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06452911.css",
+    "static/js/main.f3c1b7e4.js"
+  ]
+}
