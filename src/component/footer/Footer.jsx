@@ -6,7 +6,7 @@ import {AiFillGithub} from "react-icons/ai"
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer_logo'>Me</a>
+      <a href='#' className='footer_logo'>Hasindu Pramuditha</a>
 
     <ul className='premalinks'>
       <li><a href='#'>Home</a></li>
